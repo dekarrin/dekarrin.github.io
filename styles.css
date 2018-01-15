@@ -1,0 +1,58 @@
+body {
+	background-color: #f1f1f1;
+	margin: 40px auto;
+	max-width: 650px;
+	line-height: 1.6;
+	font-size: 18px;
+	color: #444444;
+	padding: 0 10px;
+}
+
+a, a:visited {
+	color: #0079ff;
+	text-decoration: none;
+}
+
+a:hover, a:focus, a:visited:hover, a:visited:focus {
+	color: #009bff;
+	text-decoration: underline;
+}
+
+h1, h2, h3 {
+	line-height: 1.2;
+	clear: both;
+}
+
+h1 {
+	font-family: "Arial Black", "Arial", sans-serif;
+}
+
+h2, h3 {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+footer {
+	display: block;
+	margin-top: 50px;
+	text-align: center;
+	line-height: 1.0;
+	font-size: small;
+}
+
+main {
+	display: block;
+}
+
+img {
+	border: 1px solid #808080;
+}
+
+.float-left {
+	float: left;
+	margin-right: 10px;
+}
+
+.float-right {
+	float: right;
+	margin-left: 10px;
+}
